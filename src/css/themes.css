@@ -1,0 +1,11 @@
+/* values for light theme */
+:root {
+  --font-color-: #233454;
+  --font-color-invert-: #FFFFFF;
+
+  --main-blue-: #0077b6;
+  --main-teal-: #197794;
+  --main-green-: #0a9396;
+  --main-orange-: #df9100;
+  --main-red-: #c71101;
+}
